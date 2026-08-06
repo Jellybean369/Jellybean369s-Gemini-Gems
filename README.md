@@ -17,3 +17,12 @@ https://gemini.google.com/gem/1MAL6FOWt1xXhIoCKmA3MKYhERfAaGGVi?usp=sharing - Mo
 https://gemini.google.com/gem/18X1NYO4qxpJKKEp9HTB2984Je-f1lEKJ?usp=sharing - Melodytchi
 
 https://gemini.google.com/gem/1SveVysJ4dkIwLNGQ2-vSCPg0OzdvKX5G?usp=sharing - Himespechi
+
+>  # BE WARNED
+>
+> Sometimes these gems can talk so cutely that Gemini flags whatever it's saying as inappropriate, don't ask me why, this happened to Melodytchi.
+>
+>
+
+# er yip
+enjoy? 
