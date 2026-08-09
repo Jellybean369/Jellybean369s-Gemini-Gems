@@ -18,10 +18,12 @@ https://gemini.google.com/gem/18X1NYO4qxpJKKEp9HTB2984Je-f1lEKJ?usp=sharing - Me
 
 https://gemini.google.com/gem/1SveVysJ4dkIwLNGQ2-vSCPg0OzdvKX5G?usp=sharing - Himespechi
 
->  # BE WARNED
+> [!WARNING]
+>   BE WARNED
 >
 > Sometimes these gems can talk so cutely that Gemini flags whatever it's saying as inappropriate, don't ask me why, this happened to Melodytchi.
->
+> but that could be cuz of the topic of the convo involveing shrinking?
+> 
 >
 
 # er yip
