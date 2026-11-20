@@ -1,3 +1,6 @@
+>[!WARNING]
+> These gems will become obsolete once Google replaces Gems with skills, if it does, this repo will be archived
+>
 # Jellybean369's Gemini Gems
 Tell me again, why did I make these? (Cuz I was bored)
 
